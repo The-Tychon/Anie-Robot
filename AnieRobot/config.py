@@ -11,9 +11,9 @@ class Config(object):
 
     # REQUIRED
     API_KEY = ""
-    OWNER_ID = "1091139479"  # If you dont know, run the bot and do /id in your private chat with it
-    OWNER_USERNAME = "d3nvil"
-    TOKEN = '1306525471:AAEu2agIza0S8FNr9cLjvslhB9oLkhcjVlE'
+    OWNER_ID = "2117559307"  # If you dont know, run the bot and do /id in your private chat with it
+    OWNER_USERNAME = "itz_me_tychon"
+    TOKEN = '2105843808:AAG74RpghqEBSYKY1G2U9WcDpp2Z9sRdCCw'
 
     # RECOMMENDED
     SQLALCHEMY_DATABASE_URI = 'postgres://pwbjkedt:yHtCdpZsk8IzHvS3nt3MRXWtnC9bid0m@satao.db.elephantsql.com/pwbjkedt'  # needed for any database modules
