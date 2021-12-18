@@ -16,7 +16,7 @@ StartTime = time.time()
 
 import telegram.ext as tg
 
-print("Aniebot")
+print("Savage")
 print("Starting...")
 
 
